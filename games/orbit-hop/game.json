@@ -1,0 +1,13 @@
+{
+  "id": "orbit-hop",
+  "title": "Orbit Hop",
+  "icon": "🪐",
+  "genre": "arcade",
+  "length": "quick",
+  "players": "1",
+  "status": "playable",
+  "tags": ["one-tap", "endless", "timing"],
+  "saves": "resume",
+  "description": "Tap to leap off your spinning planet. Land on the next one before its orbit decays. Dead-center landings build a combo; skipping planets scores extra.",
+  "added": "2026-11-24"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pixel-hoops",
+  "title": "Pixel Hoops",
+  "icon": "🏀",
+  "genre": "sports",
+  "length": "session",
+  "players": "1",
+  "status": "playable",
+  "tags": ["basketball", "pixel", "timing", "season"],
+  "saves": "resume",
+  "description": "3-on-3 half-court pixel basketball. Tap to run, drag back to pass, and release the shot meter in the green. On defense, time your steals and blocks. Play a season, earn upgrade points, chase the title.",
+  "added": "2026-11-24"
+}

@@ -1,0 +1,31 @@
+{
+  "ideas": [
+    { "id": "orbit-hop", "title": "Orbit Hop", "genre": "arcade", "length": "quick", "status": "playable", "pitch": "Tap to leap between spinning planets. Dead-center landings chain combos; skipping planets pays extra." },
+    { "id": "pixel-hoops", "title": "Pixel Hoops", "genre": "sports", "length": "session", "status": "playable", "pitch": "3-on-3 pixel basketball: tap to run, slingshot passes, a timing meter for every shot, and timed steals and blocks. Season mode with upgrades." },
+    { "id": "flip-run", "title": "Flip Run", "genre": "arcade", "length": "quick", "status": "planned", "pitch": "Endless runner where a tap flips gravity between floor and ceiling. Gaps on one side, spikes on the other." },
+    { "id": "pipe-bloom", "title": "Pipe Bloom", "genre": "puzzle", "length": "session", "status": "planned", "pitch": "Rotate pipe tiles to route water to every flower. A fresh seeded puzzle every day, with a streak counter." },
+    { "id": "merge-forge", "title": "Merge Forge", "genre": "puzzle", "length": "session", "status": "planned", "pitch": "Merge ore into ingots into tools — and tools are used up to smash blocked tiles. Merging with a crafting twist." },
+    { "id": "dice-delve", "title": "Dice Delve", "genre": "roguelite", "length": "session", "status": "planned", "pitch": "Five-minute runs: roll dice and slot them into attack, shield or heal. Pick a dice upgrade between each floor." },
+    { "id": "pocket-deck", "title": "Pocket Deck", "genre": "roguelite", "length": "session", "status": "planned", "pitch": "A tiny deckbuilder: 3 acts, 12-card decks and relics that bend the rules. Built for one-thumb play." },
+    { "id": "hex-claim", "title": "Hex Claim", "genre": "party", "length": "session", "status": "planned", "pitch": "2–4 players take turns claiming hexes. Fully enclose a region and every hex inside flips to you." },
+    { "id": "sketch-relay", "title": "Sketch Relay", "genre": "party", "length": "session", "status": "planned", "pitch": "Drawing telephone: draw the prompt, pass the phone, the next player guesses, and so on — then watch the reveal reel." },
+    { "id": "deep-delve", "title": "Deep Delve", "genre": "roguelike", "length": "long", "status": "planned", "pitch": "Turn-based dungeon crawl: 4 classes, unidentified potions and scrolls, procedural floors, saved every turn, and unlocks between runs." },
+    { "id": "drift-fleet", "title": "Drift Fleet", "genre": "roguelike", "length": "long", "status": "planned", "pitch": "Cross a sector map in a fragile ship: hire crew, trade cargo, survive events, upgrade systems. 1–2 hour runs, save anywhere." },
+
+    { "title": "Echo Maze", "genre": "puzzle", "length": "session", "status": "idea", "pitch": "Your echo repeats every move you made three turns ago. Both of you must reach an exit at the same time." },
+    { "title": "Slingshot Links", "genre": "arcade", "length": "quick", "status": "idea", "pitch": "One-shot mini golf in space: drag to aim, and gravity wells curve the ball around asteroids into the cup." },
+    { "title": "Lantern Keeper", "genre": "arcade", "length": "quick", "status": "idea", "pitch": "Keep five lanterns lit through the night. Moths swarm the brightest one, so tap to shoo them and drag to refuel." },
+    { "title": "Sum Serpent", "genre": "puzzle", "length": "quick", "status": "idea", "pitch": "A snake that eats numbers. Hit the target sum exactly to shed your tail; overshoot and you grow." },
+    { "title": "Tide Tiles", "genre": "puzzle", "length": "session", "status": "idea", "pitch": "Swipe whole rows like waves. Shells that line up wash away; the tide rises every 10 moves." },
+    { "title": "Ink Cartographer", "genre": "roguelite", "length": "session", "status": "idea", "pitch": "Draw your route through a fog-covered map with limited ink. Whatever you pass reveals loot or danger." },
+    { "title": "Clockwork Siege", "genre": "roguelite", "length": "session", "status": "idea", "pitch": "Ten-wave tower defense where you draft tower parts between waves and gears combine into odd hybrids." },
+    { "title": "Rune Hollow", "genre": "roguelike", "length": "long", "status": "idea", "pitch": "A roguelike where you craft spells from three runes: shape, element, twist. 'Chain-Frost-Echo' is a different spell every run." },
+    { "title": "Abyss Angler", "genre": "roguelike", "length": "long", "status": "idea", "pitch": "Fish deeper each dive, sell the catch, upgrade your boat. The deep has stranger things — and a lighthouse to restore." },
+    { "title": "Hearth & Harvest", "genre": "roguelike", "length": "long", "status": "idea", "pitch": "Seasonal village builder in turns: plan crops, weather events, and a hard winter at the end of each year. Multi-year saves." },
+    { "title": "Heist Hands", "genre": "party", "length": "session", "status": "idea", "pitch": "Secret-role bluffing for 3–6 players. Each player privately peeks at their role, then the crew votes on who carries the loot." },
+    { "title": "Thumb Duel", "genre": "party", "length": "quick", "status": "idea", "pitch": "Two players hold opposite ends of the phone. Reflex mini-duels: quick draw, tug of war, don't-blink." },
+    { "title": "Shadow Tag", "genre": "party", "length": "session", "status": "idea", "pitch": "Hot-seat hide and seek on a fogged grid. The hider plans moves in secret; the seekers get footprints." },
+    { "title": "Paper Glider", "genre": "arcade", "length": "quick", "status": "idea", "pitch": "Hold to climb, release to glide. Ride updrafts through a paper city that folds up as you pass." },
+    { "title": "Gem Rivers", "genre": "puzzle", "length": "quick", "status": "idea", "pitch": "A daily 60-second puzzle: drag to dig channels so colored rivers carry gems to matching pools." }
+  ]
+}
